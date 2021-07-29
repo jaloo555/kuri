@@ -1,1 +1,3 @@
-# kuri
+# Kuri
+
+Exploring liquidity frontruns
